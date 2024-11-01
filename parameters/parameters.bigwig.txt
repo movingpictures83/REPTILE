@@ -1,0 +1,2 @@
+bigwig	test/data/bw/mESC_Meth.bw
+bedfile	test/data/test_data/test_region.bed

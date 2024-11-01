@@ -1,0 +1,3 @@
+sample_for_prediction	E11_5_HT
+label_file	data/test_data/vista_enhancer_state.tsv
+prediction_result_file	results/E11_5_HT_pred.D.bed

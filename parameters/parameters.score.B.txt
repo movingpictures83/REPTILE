@@ -1,0 +1,6 @@
+data_info_file	data/data_info_mESC_E11_5.tsv
+model_file	tmp/REPTILE_model.reptile
+DMR_epimark_file	tmp/mm10_w2kb_s100bp.DMR_with_epimark
+query_region_epimark_file	tmp/mm10_w2kb_s100bp.region_with_epimark
+query_sample	E11_5_HT
+num_splits	12

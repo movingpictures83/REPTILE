@@ -1,0 +1,6 @@
+data_info_file	data/data_info_mESC_E11_5.tsv
+model_file	tmp/REPTILE_model.reptile
+DMR_epimark_file	tmp/test_region.DMR_with_epimark.tsv
+query_region_epimark_file	tmp/test_region.region_with_epimark.tsv
+query_sample	E11_5_HT
+incl_dev	1

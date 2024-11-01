@@ -1,0 +1,3 @@
+data_info_file	data/data_info_mESC_E11_5.tsv
+query_region_file	data/test_data/vista_enhancer_mm10_mm.bed
+DMR_file	data/DMR_CG_mESC_E11_5_ext150.bed
